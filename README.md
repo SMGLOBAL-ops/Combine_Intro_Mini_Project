@@ -5,7 +5,7 @@
 <ol>
 <li>Clone the repository to your local machine:</li>
 </ol>
-<pre><code>git clone https://github.com/{username}/{repository}.git
+<pre><code>git clone https://github.com/SMGlobal-ops/Combine_Intro_Mini_Project.git
 </code></pre>
 <ol start="2">
 <li>Open the <code>CombineIntro.xcodeproj</code> file in Xcode.</li>
